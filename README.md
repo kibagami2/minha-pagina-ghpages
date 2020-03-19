@@ -7,3 +7,4 @@ Repositório para apresentar minha pagina de portifolio
 Esta release é a inicial do projeto
 
 
+* Foi criado a página index.html
